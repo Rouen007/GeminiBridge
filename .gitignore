@@ -46,4 +46,5 @@ htmlcov/
 
 # Config (local)
 config.json
-server_config.jsonchrome_profile/
+server_config.json
+chrome_profile/
