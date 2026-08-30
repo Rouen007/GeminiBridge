@@ -1,13 +1,13 @@
 {
     "host": "127.0.0.1",
     "port": 8765,
-    "api_key": "sk-ant-api03-gemini-web-v1_demo_key_abc123xyz",
+    "api_key": "sk-test123",
     "max_sessions": 1,
     "idle_timeout_seconds": 600,
     "min_request_delay_seconds": 1.0,
     "max_request_delay_seconds": 2.0,
     "default_model": "gemini-pro",
-    "headless": true,
-    "guest_mode": true,
+    "headless": false,
+    "guest_mode": false,
     "log_level": "INFO"
 }
